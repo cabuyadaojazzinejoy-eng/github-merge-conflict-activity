@@ -1,2 +1,2 @@
-Git Merge Conflict Activity
-Project Description: Original Version
+Git Merge Conflict Activitys
+Project Description: This is the combined version from Branch 1 and Branch 2.
